@@ -1,0 +1,21 @@
+Unable to Access Following Species' Gene Tree Data from the Main Ensembl Website:
+
+1. Blue Whale (Balaenoptera musculus)
+2. Sperm Whale (Physeter catodon)
+3. West African Mud Turtle (Pelusios castaneus)
+
+Unable to Access Gene Tree Data from Ensembl Metazoa for Following Species:
+
+1. Amphioxus/lancelet (Branchiostoma lanceolatum)
+2. Sea Squirt (Ciona savignyi)
+3. Purple Sea Urchin (Strongylocentrotus purpuratus)
+4. Common Water Flea (Daphnia pulex)
+5. California Two-spot Octopus (Octopus bimaculoides)
+6. Lamp Shell (Lingula anatina)
+7. California Sea Hare (Aplysia californica)
+8. Pacific Oyster (Crassostrea gigas)
+9. Starlet Sea Anemone (Nematostella vectensis)
+10. Jellyfish (Clytia hemisphaerica)
+11. Warty Comb Jelly (Mnemiopsis leidyi)
+12. Demosponge (Amphimedon queenslandica)
+13. Choanoflagellate (Salpingoeca rosetta)
